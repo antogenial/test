@@ -1,0 +1,66 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N801" />
+          <option value="N802" />
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnboundLocalVariableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.setup" />
+          <option value="main.title" />
+          <option value="pillow_heif" />
+          <option value="matplotlib.cm.viridis" />
+          <option value="matplotlib.cm.plasma" />
+          <option value="matplotlib.cm.inferno" />
+          <option value="matplotlib.cm.magma" />
+          <option value="matplotlib.cm.cividis" />
+          <option value="matplotlib.cm.Greys" />
+          <option value="matplotlib.cm.Spectral" />
+          <option value="matplotlib.cm.Purples" />
+          <option value="matplotlib.cm.Blues" />
+          <option value="matplotlib.cm.tab20c" />
+          <option value="matplotlib.cm.RdYlGn" />
+          <option value="matplotlib.cm.coolwarm" />
+          <option value="matplotlib.cm.bwr" />
+          <option value="matplotlib.cm.seismic" />
+          <option value="matplotlib.cm.twilight" />
+          <option value="matplotlib.cm.Accent" />
+          <option value="matplotlib.cm.Paired" />
+          <option value="matplotlib.cm.Greens" />
+          <option value="matplotlib.cm.Oranges" />
+          <option value="matplotlib.cm.Reds" />
+          <option value="matplotlib.cm.YlOrBr" />
+          <option value="matplotlib.cm.Pastel2" />
+          <option value="matplotlib.cm.Pastel1" />
+          <option value="matplotlib.cm.hsv" />
+          <option value="matplotlib.cm.twilight_shifted" />
+          <option value="matplotlib.cm.Dark2" />
+          <option value="matplotlib.cm.Set1" />
+          <option value="matplotlib.cm.Set2" />
+          <option value="matplotlib.cm.Set3" />
+          <option value="matplotlib.cm.tab10" />
+          <option value="matplotlib.cm.tab20" />
+          <option value="matplotlib.cm.tab20b" />
+          <option value="matplotlib.cm.YlOrRd" />
+          <option value="matplotlib.cm.OrRd" />
+          <option value="matplotlib.cm.PuRd" />
+          <option value="matplotlib.cm.RdPu" />
+          <option value="matplotlib.cm.BuPu" />
+          <option value="matplotlib.cm.GnBu" />
+          <option value="matplotlib.cm.PuBu" />
+          <option value="matplotlib.cm.*" />
+          <option value="docx.Document" />
+          <option value="main.binance" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
